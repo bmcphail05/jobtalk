@@ -148,8 +148,7 @@ class:center
 
 ---
 class:center
-**Predicted Self-Rated Health Based on Prefecture-level Daoism**  
-*Random Intercept Ordered Logit Model*
+### Predicted Self-Rated Health Based on Prefecture-level Daoism 
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_dao.png?raw=true" width = "70%" />
 
 ---
