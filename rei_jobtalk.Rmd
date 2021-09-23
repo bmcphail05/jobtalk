@@ -116,7 +116,7 @@ background-size: contain
 class: left, middle
 
 .pull-left[
-## Religious Environment: 
+**.large[Religious Environment:]**
 
 the demographic presence and sociocultural influence of religion(s) in a local social context
 
@@ -127,9 +127,12 @@ the demographic presence and sociocultural influence of religion(s) in a local s
 <img class="circle"  src= "https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi.png?raw=true" width ="400px"/>]]
 
 ---
-class: center, middle 
+class: center, top
 
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/allsites.png?raw=true" width = "65%"/>
+background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/allsites.png?raw=true)
+background-size: contain
+
+**.large[Religious Sites in China (2004)]**
 
 ---
 class: center, middle 
