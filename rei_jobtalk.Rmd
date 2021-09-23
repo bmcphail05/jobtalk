@@ -135,10 +135,10 @@ background-size: contain
 **.large[Religious Sites in China (2004)]**
 
 ---
-class: center, middle 
+class: center, top 
 
 background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/guangdong1.png?raw=true)
-background-size: contain
+background-size: cover
 
 
 ---
