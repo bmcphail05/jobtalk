@@ -127,6 +127,17 @@ the demographic presence and sociocultural influence of religion(s) in a local s
 <img class="circle"  src= "https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi.png?raw=true" width ="400px"/>]]
 
 ---
+class: center, middle 
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/allsites.png?raw=true" width = "65%"/>
+
+---
+class: center, middle 
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/guangdong.png?raw=true" width = "65%"/>
+
+
+---
 
 class: center, middle 
 
