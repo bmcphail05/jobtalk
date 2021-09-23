@@ -51,11 +51,6 @@ Department of Sociology | Purdue University
 Presented at SOC591 Proseminar  
 September 30, 2021
 
----
-class: center, middle 
-
-.large[**Mortality rate per 1,000 people in Chinese counties, 2000**]
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mort.jpg?raw=true" width = "75%"/>
 
 ---
 class: center, middle 
@@ -66,9 +61,15 @@ class: center, middle
 ---
 class: center, middle 
 
-.large[**Chinese population (in millions) by age group in 2017 and projections in 2050**]
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mortrate_graph.jpg?raw=true" width = "75%"/>
+.large[**Chinese population by age group in 2017 and projections in 2050**]
 
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/aging_graph.png?raw=true" width = "75%"/>
+
+---
+class: center, middle 
+
+.large[**Mortality rate per 1,000 people in Chinese counties, 2000**]
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mort.jpg?raw=true" width = "75%"/>
 
 ---
 class: middle 
@@ -95,28 +96,21 @@ class: middle
 ]
 
 ---
-class: center, middle
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
-background-size: contain
-
-## How is the religious environment associated with the individual physical health outcomes of older Chinese adults?
-
----
-class: left, middle
+class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 
 #.center[Dissertation Project]
-### Study 1. How is the religious environment associated with county-level mortality rates in China?
+
+###.opacity[Study 1. How is the religious environment associated with county-level mortality rates in China?]
+
+--
+
 ### Study 2. How is the religious environment associated with the individual physical health outcomes of older Chinese adults?
-### Study 3. What are potential mechanisms that explain how the religious environment impacts the physical health of  older Chinese adults?
 
----
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
-background-size: contain
-class: center, middle
+--
 
-## How is the religious environment of Chinese prefectures associated with individual-level self-rated health among middle-age and older adults?
+###.opacity[Study 3. What are potential mechanisms that explain how the religious environment impacts the physical health of  older Chinese adults?]
 
 ---
 
@@ -165,6 +159,24 @@ class:center
 ### Predicted Self-Rated Health Based on Prefecture-level Daoism 
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_dao.png?raw=true" width = "70%" />
 
+
+---
+class: center
+
+**Average Marginal Effects of Religious Sites on Self-Rated Health**
+
+<br>
+
+| |Buddhism | Catholicism | Daoism | Islam | Protestantism |
+|:--|---:|--:|
+| |  +SD | +SD |
+|Poor | 0.015<sup>+</sup> | -0.022<sup>*</sup> | 
+|Fair | 0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
+|Good | -0.007<sup>+</sup> |   0.011<sup>*</sup> | 
+|Very Good |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
+.small[Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*</sup><sup>\*</sup> *p* < .01, <sup>\*</sup><sup>\*</sup><sup>\*</sup> *p* < .001; AMEs calculated using observed values.]
+
+
 ---
 class: center
 
@@ -173,14 +185,14 @@ class: center
 .pull-left[
 <br>
 
-| | Islam | Daoism |
+| |Buddhism | Catholicism | Daoism | Islam | Protestantism |
 |:--|---:|--:|
 | |  +SD | +SD |
 |Poor | 0.015<sup>+</sup> | -0.022<sup>*</sup> | 
 |Fair | 0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
 |Good | -0.007<sup>+</sup> |   0.011<sup>*</sup> | 
 |Very Good |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
-Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05; AMEs calculated from Model 6 using observed values.
+Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*</sup><sup>\*</sup> *p* < .01, <sup>\*</sup><sup>\*</sup><sup>\*</sup> *p* < .001; AMEs calculated using observed values.
 ]
 
 .pull-right[.left[
