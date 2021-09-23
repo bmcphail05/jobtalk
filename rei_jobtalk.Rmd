@@ -113,6 +113,17 @@ background-size: contain
 ###.opacity[Study 3. What are potential mechanisms that explain how the religious environment impacts the physical health of  older Chinese adults?]
 
 ---
+class: left, middle
+
+.pull-left[
+### Religious Environment: 
+
+the demographic presence and sociocultural influence of religion(s) in a local social environment—most commonly a geographic area—to distinguish between religion's individual and contextual effects.]
+
+.pull-right[
+<img class="circle"  src= "https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi.jpeg?raw=true"/>]
+
+---
 
 class: center, middle 
 
