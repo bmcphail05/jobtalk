@@ -42,7 +42,7 @@ background-position: right bottom
 background-size: 33%
 
 <br>
-# The Ecological Effects of Religion on Health & Mortality in China
+# The Ecological Effects of Religion on the Health of Older Chinese Adults
 <br>
 <br>
 .large[Brian L. McPhail]  
@@ -144,7 +144,7 @@ background-size: contain
 class: center, top 
 
 background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi1.png?raw=true)
-background-size: cover
+background-size: contain
 
 
 ---
@@ -183,6 +183,7 @@ class:center
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/or_table.png?raw=true" width = "70%" />
 
 ---
+
 class:center
 **Predicted Probabilities of Self-Rated Heath - Muslim sites**  
 *Random Intercept Ordered Logit Model*
@@ -190,42 +191,42 @@ class:center
 
 ---
 class:center
-### Predicted Self-Rated Health Based on Prefecture-level Daoism 
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_dao.png?raw=true" width = "70%" />
+
+**.large[Predicted Self-Rated Health Based on Prefecture-level Daoism]** 
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_dao.png?raw=true" width = "80%" />
 
 
 ---
 class: center
 
-**Average Marginal Effects of Religious Sites on Self-Rated Health**
+**.large[Average Marginal Effects (+SD) of Religious Sites on Self-Rated Health]**
 
 <br>
 
 | |Buddhism | Catholicism | Daoism | Islam | Protestantism |
-|:--|---:|--:|
-| |  +SD | +SD |
-|Poor | 0.015<sup>+</sup> | -0.022<sup>*</sup> | 
-|Fair | 0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
-|Good | -0.007<sup>+</sup> |   0.011<sup>*</sup> | 
-|Very Good |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
-.small[Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*</sup><sup>\*</sup> *p* < .01, <sup>\*</sup><sup>\*</sup><sup>\*</sup> *p* < .001; AMEs calculated using observed values.]
-
+|:--|---:|--:|---:|--:|---:|
+| |  +SD | +SD | +SD |+SD |+SD |
+|Poor |0.010 |0.015<sup>+</sup> | -0.022<sup>*</sup> | 
+|Fair |0.028<sup>\*\*</sup> |0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
+|Good | -0.013<sup>+</sup> |-0.007<sup>+</sup> |   0.011<sup>*</sup> | 
+|Very Good | -0.025<sup>\*\*</sup> |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
+Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*\*</sup> *p* < .01, <sup>\*\*\*</sup> *p* < .001; AMEs use observed values.
 
 ---
 class: center
 
-**Average Marginal Effects of Religious Sites on Self-Rated Health**
+**.large[Average Marginal Effects (+SD) of Religious Sites on Self-Rated Health]**
 
 .pull-left[
 <br>
 
 | |Buddhism | Catholicism | Daoism | Islam | Protestantism |
-|:--|---:|--:|
+|:--|---:|--:|---:|--:|---:|
 | |  +SD | +SD |
-|Poor | 0.015<sup>+</sup> | -0.022<sup>*</sup> | 
-|Fair | 0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
-|Good | -0.007<sup>+</sup> |   0.011<sup>*</sup> | 
-|Very Good |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
+|Poor |0.010 |0.015<sup>+</sup> | -0.022<sup>*</sup> | 
+|Fair |0.028<sup>\*</sup><sup>\*</sup> |0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
+|Good | $-$0.013<sup>+</sup> |-0.007<sup>+</sup> |   0.011<sup>*</sup> | 
+|Very Good | $-$0.025<sup>\*</sup><sup>\*</sup> |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
 Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*</sup><sup>\*</sup> *p* < .01, <sup>\*</sup><sup>\*</sup><sup>\*</sup> *p* < .001; AMEs calculated using observed values.
 ]
 
