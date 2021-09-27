@@ -37,7 +37,7 @@ library(fontawesome) # from github: https://github.com/rstudio/fontawesome
 library(DiagrammeR)
 ```
 class: inverse, left, middle
-background-image: url(https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china_white.png?raw=true)
+background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/china_white.png?raw=true)
 background-position: right bottom
 background-size: 33%
 
@@ -53,41 +53,38 @@ September 30, 2021
 
 
 ---
-class: center, middle 
+class: center, top
 
 .large[**Mortality rate and projections in China from 1949-2070**]
+
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mortrate_graph.jpg?raw=true" width = "75%"/>
 
 ---
-class: center, middle 
+class: center, top 
 
 .large[**Chinese population by age group in 2017 and projections in 2050**]
 
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/aging_graph.png?raw=true" width = "75%"/>
 
 ---
-class: center, middle 
+class: center, top 
 
 .large[**Mortality rate per 1,000 people in Chinese counties, 2000**]
+<br>
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mort.jpg?raw=true" width = "75%"/>
 
 ---
-class: middle 
+class: center, top
 
-.pull-left[
-![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/berkman2000.jpg?raw=true)
-]
+.large[**Predominate religion in Chinese prefectures, 2004**]
+<br>
 
-.pull-right[
-![](https://www.researchgate.net/publication/237200852/figure/fig3/AS:406849846300680@1474011970545/Theoretical-model-of-causal-pathways-to-physical-health-for-Western-monotheistic.png)
-]
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/dom_rel.png?raw=true" width = "65%"/>
 
-.pull-left[.center[Socio-ecological Model of Place Effects on Health (Berkman et al. 2000)]]
-.pull-right[.center[Religion/Spirituality & Physical Health Model (Koenig et al. 2012)]]
 
 ---
 class: left, top
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
+background-image: url("https://github.com/bmcphail05/jobtalk/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 
 ##.center[Dissertation Project]
@@ -106,21 +103,43 @@ background-size: contain
 
 ---
 class: left, top
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
+background-image: url("https://github.com/bmcphail05/jobtalk/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 
 ##.center[Research Questions]
 
-- Is the overall presence of religion in Chinese prefectures associated with the physical health of older Chinese adults? Or does the association vary by the presence of Buddhism, Catholicism, Daoism, Islam, and Protestantism?
+### Study 2. How is the religious environment associated with the individual physical health outcomes of older Chinese adults?
+
+- How is the overall presence of religion in Chinese prefectures associated with the physical health of older Chinese adults? 
+
+- Or does the association vary by the presence of Buddhism, Catholicism, Daoism, Islam, and Protestantism?
 
 - Does the association vary between adherents and non-adherents of each religion?
+
+---
+class: center, top
+
+.large[**Socio-ecological Model of Place Effects on Health (Berkman et al. 2000)**]
+<br>
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/berkman2000.jpg?raw=true" width = "70%"/>
+
+---
+class: center, top
+
+.large[**Socio-ecological Model of Place Effects on Health (Berkman et al. 2000)**]
+<br>
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/berkman2000_box1.jpg?raw=true" width = "70%"/>
+
+
 
 
 ---
 class: middle 
 
 .pull-left[
-![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/berkman2000.jpg?raw=true)
+![](https://github.com/bmcphail05/jobtalk/blob/main/images/berkman2000.jpg?raw=true)
 ]
 
 .pull-right[
@@ -230,7 +249,8 @@ class: left, top
 
 class:center
 **.large[Predicted Self-Rated Health Based on Prefecture-level Religion]**  
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all.png?raw=true" width = "80%" />
+<br>
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all.png?raw=true" width = "100%" />
 
 
 
@@ -248,6 +268,7 @@ class: center
 |Fair       | -0.005  | |0.028<sup>\*\*</sup> |0.004             |0.000             |-0.015<sup>\*</sup>|-0.028<sup>\*\*</sup>  |
 |Good       |  -0.004 | |-0.013<sup>+</sup>   |-0.012<sup>\*</sup>|0.019<sup>\*</sup>|-0.002          |0.002   |
 |Very Good  |   0.001 | |-0.025<sup>\*\*</sup>|0.006             |-0.002            |0.006            |0.022<sup>\*</sup>  |
+|Overall | -  |  |Neg. | - | Pos. | Neg. | Pos. |
 Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*\*</sup> *p* < .01, <sup>\*\*\*</sup> *p* < .001; AMEs use observed values.
 
 ---
@@ -276,13 +297,16 @@ background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/ima
 background-size: contain
 
 
-### Preliminary Conclusions
+### Conclusions
 
-Increased concentration of Muslim sites in Chinese prefectures is associated with lower levels of self-rated health among older Chinese adults. 
+Increased presence of Daoism and Protestantism in Chinese prefectures is associated with better self-rated health among older Chinese adults. 
+- 
+- 
 
-Increased concentration of Daoist sites in Chinese prefectures is associated with higher levels of self-rated health among older Chinese adults. 
-
-No evidence that the concentration of Buddhist, Protestant, or Catholic sites is associated with self-rated health among older Chinese adults. 
+Increased presence of Buddhism and and Islam in Chinese prefectures is associated with worse self-rated health among older Chinese adults. 
+-
+- 
+No evidence that religion as a whole or that Catholicism is associated with self-rated health among older Chinese adults. 
 
 ---
 class: left, middle
