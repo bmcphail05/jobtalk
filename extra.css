@@ -11,6 +11,9 @@
   font-size: 120%;
 }
 
+.h3 {
+  font-family: Noto Serif;
+}
 .tiny {
   font-size: 66%;
 }
@@ -18,7 +21,7 @@
     font-size: 1.3rem
 }
 
-.opacity {opacity: .66
+.opacity {opacity: .70
   }
 
 .transparent {
