@@ -266,9 +266,19 @@ class: left, top
 ---
 
 class:center
-**.large[Predicted Self-Rated Health Based on Prefecture-level Total Sites) ]** <br>
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_sites.jpg?raw=true" width = "80%" />
+**.large[Predicted Self-Rated Health Based on Prefecture-level Total Sites]**
 
+.left-column[.left[.small-font[
+<br>
+<br>
+Associations not statistically significant.  
+
+No evidence that greater religious presence in Chinese prefectures affects self-rated health. 
+]]]
+
+.right-column[
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_sites.jpg?raw=true" width = "80%" />
+]
 
 ---
 
@@ -276,7 +286,6 @@ class:center
 **.large[Predicted Self-Rated Health Based on Prefecture-level Religion]**  
 <br>
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all.png?raw=true" width = "100%" />
-
 
 
 ---
