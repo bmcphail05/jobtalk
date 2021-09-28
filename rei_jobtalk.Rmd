@@ -290,7 +290,7 @@ class:center
 class:center
 **.large[Predicted Self-Rated Health Based on Prefecture-level Religion]**  
 <br>
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all_plus.png?raw=true" width = "100%" />
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all_plus1.png?raw=true" width = "100%" />
 
 ---
 class: center
