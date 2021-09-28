@@ -266,17 +266,8 @@ class: left, top
 ---
 
 class:center
-**.large[Predicted Self-Rated Health Based on Prefecture-level Religion (Total Sites) ]**  
-
-.left-column[
-**Test**
-This is a test. 
-]
-
-
-.right-column[
+**.large[Predicted Self-Rated Health Based on Prefecture-level Total Sites) ]** <br>
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_sites.jpg?raw=true" width = "80%" />
-]
 
 
 ---
