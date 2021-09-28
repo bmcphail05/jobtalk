@@ -37,7 +37,12 @@ And finally, are the connections between the religious environment and health ou
 # Approach
 ## Theoretical Discipline Framework
 
-First, I draw on insights from the social determinants of health literature and more specifically, the work that examines the effects of place on health. In this US, the research on how neighborhoods impact health outcomes has shown us that population patterns of health and disease are “biological expressions of social relations.” This kind of work uses an eco-social framework, which emphasizes the multiple levels and domains of the socio-ecological environment that influence health outcomes (Krieger 2001). We now know that the socio-cultural characteristics of local areas are an important category of features that help explain area differences in health (Macintyre and Ellaway 2000: 342-343). Religion is one of these socio-cultural aspects of local communities, but it is rarely considered in this work.
+First, I draw on insights from the social determinants of health literature and more specifically, the work that examines the effects of place on health. In this US, the research on how neighborhoods impact health outcomes has shown us that population patterns of health and disease are “biological expressions of social relations.” This kind of work uses an eco-social framework, which emphasizes the multiple levels and domains of the socio-ecological environment that influence health outcomes (Krieger 2001). We now know that the socio-structural conditions and socio-cultural characteristics of local areas are important categories of features that help explain area differences in health (Macintyre and Ellaway 2000: 342-343). Religion is one of these, but it is rarely considered in this work. In this particular model of place effects on health, culture is included as macro-level socio-structural conditions and examples like norms and values and social cohesion are given. What about religion here? It's missing here from this model, but things like norms and values and social cohesion are certainly impacted by religion.
+
+
+
+
+In other conceptual models, such as this one that outlines the
 
 And when religion is included in research on health, it is often conceptualized as an individual-level attribute.
 
@@ -70,6 +75,14 @@ As you can see here, these data are nested. There’s a multi-level structure to
 ## What did I find, why do we care
 ## What do you argue? Support with evidence.
 ## What does it tell us? DEPT
+
+
+The first of the research questions I set out to answer with this study is how the overall religious environment impacts the physical health of older Chinese adults. So do areas with a stronger religious presence have different health outcomes than areas with a weaker religious presence? That's the essential question here.
+
+This graph shows the predicted probabilities of being in each category of self-rated health from a multi-level multinomial logistic regression model with the total number of religious sites in Chinese prefectures as focal independent variable.
+
+The predictions suggest that the overall religious environment of religious does NOT affect individuals' self-rated health
+
 
 
 ### Full Model Graph
