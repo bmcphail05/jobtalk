@@ -77,11 +77,11 @@ As you can see here, these data are nested. There’s a multi-level structure to
 ## What does it tell us? DEPT
 
 
-The first of the research questions I set out to answer with this study is how the overall religious environment impacts the physical health of older Chinese adults. So do areas with a stronger religious presence have different health outcomes than areas with a weaker religious presence? That's the essential question here.
+The first of the research questions I set out to answer with this study is how the overall religious environment impacts the physical health of older Chinese adults. So do areas with a stronger religious presence have different health outcomes than areas with a weaker religious presence? That's the first question we're asking here. 
 
 This graph shows the predicted probabilities of being in each category of self-rated health from a multi-level multinomial logistic regression model with the total number of religious sites in Chinese prefectures as focal independent variable.
 
-The predictions suggest that the overall religious environment of religious does NOT affect individuals' self-rated health
+The predictions from this model suggest that the overall religious environment of religious does NOT affect individuals' self-rated health. Notice that the predicted probability of respondents' reporting each level of self-rated health does not significantly change as the total number of religious sites increases. So for example, as the number of religious sites in a prefecture increases, the predicted probabilities of reporting GOOD and VERY GOOD health stays about .1 for each. It does appear that the probability of reporting FAIR health is decreasing and the probability of reporting POOR health is increasing, but the tests on these indicate that the average change across the range of religious sites is not different from zero.
 
 
 
