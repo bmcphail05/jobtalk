@@ -77,30 +77,53 @@ As you can see here, these data are nested. There’s a multi-level structure to
 ## What does it tell us? DEPT
 
 
-The first of the research questions I set out to answer with this study is how the overall religious environment impacts the physical health of older Chinese adults. So do areas with a stronger religious presence have different health outcomes than areas with a weaker religious presence? That's the first question we're asking here. 
+The first of the research questions I set out to answer with this study is how the overall religious environment impacts the physical health of older Chinese adults. So do areas with a stronger religious presence have different health outcomes than areas with a weaker religious presence? That's the first question we're asking here.
 
 This graph shows the predicted probabilities of being in each category of self-rated health from a multi-level multinomial logistic regression model with the total number of religious sites in Chinese prefectures as focal independent variable.
 
 The predictions from this model suggest that the overall religious environment of religious does NOT affect individuals' self-rated health. Notice that the predicted probability of respondents' reporting each level of self-rated health does not significantly change as the total number of religious sites increases. So for example, as the number of religious sites in a prefecture increases, the predicted probabilities of reporting GOOD and VERY GOOD health stays about .1 for each. It does appear that the probability of reporting FAIR health is decreasing and the probability of reporting POOR health is increasing, but the tests on these indicate that the average change across the range of religious sites is not different from zero.
 
+So again, a greater presence of religion (of any kind of religion) is not associated with the self-rated health of older Chinese adults.
+
+This means that if there is a connection between the religious environment and health, then its religion specific. And that's what my second research question for this study examines: whether associations between the religious environment and self-rated health vary by religious group. So does each religion have a different effect on self-rated health?
 
 
 ### Full Model Graph
 
-This graph shows the predicted probabilities of being in each category of self-rated health across the range of the number of religious sites in Chinese prefectures. The first graph represents the association between the total number of all religious sites and the categories of self-rated health, and all of the other graphs represent the association between the number sites for each religion and the categories of self-rated health. The lightest color shade is each graph is poor health and the darkest is very good health.
+This graph shows the predicted probabilities of being in each category of self-rated health across the range of the number of religious sites in Chinese prefectures. The first graph in the upper left is the same graph we just saw. I just included it for comparison. All of the other graphs represent the association between the number sites for each religion and the categories of self-rated health. The lightest color shade is each graph is poor health and the darkest is very good health.
 
-From the first graph, you'll notice that an increase in the total number of religious sites in Chinese prefectures has no effect on the probability of reporting each category of self-rated health. As the number of religious sites increases, there is little to not change in the probabilities of reporting each level of self-rated health.
+Again, in the first graph, so the total number of religious sites in Chinese prefectures has no effect on the probability of reporting each category of self-rated health. There is little to no change in the probabilities of reporting each level of self-rated health as the total number of sites increases.
 
-In terms of the effects of each religion on self-rated health, my model predicts that as the presence of Buddhist increases in a prefecture, respondents will have an increased probability of reporting fair and poor health and decreased probabilities of reporting Good and Very Good health. So, the overall takeaway for Buddhism is that it is associated with worse health outcomes.
+In terms of the effects of each religion on self-rated health, the graphs from this model shows that different religious groups have different associations between their presence in Chinese prefectures and the self-rated health of older adults living there. The presence of Buddhism and Islam have an overall negative association with self-rated health. So as the number of Buddhist temples and Islamic mosques increase across Chinese prefectures, older Chinese adults report worse self-rated health.
 
-For an increased presence of Catholicism, the probability of reporting Good health declines. Although it looks like there might be an increase in the probability of reporting Very good health for an increase in Catholicism, the tests of significance don't show that this effect is any different from zero, so it's not clear whether this represents an overall positive or negative association between Catholicism and self-rated health.
+Let's look at Buddhism first. An increase in the presence of Buddhism is associated with a lower probability of reporting Good and Very Good health and a higher probability of reporting Fair health. If we compare the lines for Good and Very Good to the line for Fair, we see that people are moving out of the Good and Very Good health categories and into the Fair health categories. So this is a net negative effect for Buddhism on self-rated health.
 
-An increase in Daoism is associated with a lower probability of reporting Poor health and a higher probability of reporting Good health, suggests that the increased presence of Daoism in Chinese prefectures is associated with better self-rated health.
+Looking at the Fair line again for Buddhism, the probability of reporting Fair health in prefectures with no Buddhist temples is predicted to be about .5, whereas the probability of reporting Fair health in prefectures with the most number of Buddhist temples in the data set is .630. That's a jump of 13 percentage points across the range of Buddhist temples.
 
-For Islam, more mosques in a prefecture is associated with higher probabilities of reporting poor health and lower probabilities of reporting fair health. This is indicative of an overall negative association between Islam and health outcomes. The tests for the apparent increase in the probability of reporting very good are not significant.
+Similarly, the probability of reporting Very Good health in prefectures with no Buddhist temples is predicted to be about .13, and the probability of reporting Very Good health in prefectures with the most number of Buddhist temples in the data set is .025. That's a drop of more than 10 percentage points across the range of Buddhist temples. 
 
-And finally, an increase in the presence of Protestantism is associated with a decreased probability of reported Fair health and an increased probability of reporting very good health, which suggests an overall positive effect of Protestantism on self-rated health.
+I'll show you the average marginal effects and statistical tests in a moment, but there's a lot to interpret from these models, and I think the graphs are most helpful for seeing the patterns.
 
+For Islam, an increased presence of Islam in Chinese prefectures is associated with a lower probability of reporting Fair health and a higher probability of reporting Poor health. So here, people are moving out of the Fair health category into the Poor health category, a net negative effect on self-rated health for Islam.
+
+In contrast to Buddhism and Islam, the presence of Daoism and Protestantism have an overall positive association with self-rated health. So as the number of Daoist temples and Protestant churches increases across Chinese prefectures, older Chinese adults report better self-rated health.
+
+For Daoism, an increase in the presence of Daoism is associated with a lower probability of reporting Poor health and a higher probability of reporting Good health. People are moving out of the Poor health category and into the Good health category, a net positive effect.
+
+And for Protestantism, more Protestant churches in prefectures is associated with lower probability of reporting Faith health, and a higher probability of reporting Very Good health, again a net positive effect. People are moving out of Fair health and into Very Good health.
+
+Catholicism is a little trickier to interpret. The only statistically significant change for more Catholic churches is a lower probability of Good health, but it's not clear which categories they are actually moving too. Although it looks like there might be an increase in the probability of reporting Very good health for an increase in Catholicism, the tests of significance don't show that this effect is any different from zero, so it's not clear whether this represents an overall positive or negative association between Catholicism and self-rated health.
+
+The graphs are helpful for visualizing the models, but to test the change in the probabilities as the number of religious sites increases, I use average marginal effects. What an average marginal effect represents here is the average change in the probabilities of reporting each category of self-rated health for a standard deviation increase in the number of religious sites. And since these results come from multinomial models, there is an AME for each category for self rated health.
+
+So in this table, I present the average marginal effects of a SD increase in the number of Buddhist temples. The statistical test here is whether the value is significantly different from zero.
+
+Just so we're clear on what this represents.
+
+As we just saw from the graph, none of these average marginal effects.
+
+
+So, as the graph first showed us, an increase in the
 
 # Interactions
 
@@ -108,6 +131,15 @@ The other research question that I set out to answer in this study is whether th
 
 To get at this question, I ran additional models with interaction terms  between the number of sites for each religion in prefectures and the religious identities of the individual respondents. This approach allows me to test whether the effect of the presence of Buddhism in Chinese prefectures is different for Buddhists than for non-Buddhists. First, I do this with the total number of religious sites, and then I do it for each religion. These models show no evidence that For the most part, the effect of the religious environment on self-rated health is not different for religious adherents and non-religious adherents.
 
+
+# Conclusion
+
+
+
+## Limitations
+Finally, I want to mention a few limitations to what I've presented here as well as a few ways that I think future research could build on these findings. First, religious identity is a relatively weak measure of the religious lives of Chinese individuals. Far more people believe and practice religion than identify with religion. And many people actually believe and practice more than one religion. So a religious identity question on a survey in China is only capturing a small skewed part of individual religion. This is the only available question in the CHARLS survey and only 8.5% report a religious identity (5.8% are Buddhist). Some better would be level of belief and religious practice.
+
+Self-rated health is a very subjective measure. The religious environment may impact ratings of health more than health itself.
 
 
 
