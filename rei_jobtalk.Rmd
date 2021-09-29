@@ -130,7 +130,10 @@ the demographic presence and sociocultural influence of religion(s) in a local s
   - most commonly a geographic area (e.g., community, neighborhood, county, state)
   - individual vs. contextual effects
   - operationalized as the religious composition of an area or network]
-  
+
+.pull-right[.center[
+<img class="circle"  src= "https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi.png?raw=true" width ="400px"/>]]
+
 ---
 class: center, top
 
@@ -210,7 +213,7 @@ class: left, top
 ---
 class: center, middle 
 
-<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data.png?raw=true" width = "100%" />
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data1.png?raw=true" width = "100%" />
 
 ---
 class: center
@@ -341,7 +344,6 @@ class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 <br>
-<br>
 ## Conclusions
 
 No evidence that greater presence of overall religion in Chinese prefectures is associated with self-rated health among older Chinese adults.
@@ -350,14 +352,12 @@ Greater presence of Daoism and Protestantism in Chinese prefectures is associate
 
 Greater presence of Buddhism and Islam in Chinese prefectures is associated with **worse** self-rated health among older Chinese adults.  
 
-No evidence that the presence of religions in Chinese prefectures has matters differently for the health of religious adherents and non-adherents. 
+No evidence that the presence of religions in Chinese prefectures matters differently for the health of religious adherents and non-adherents. 
 
 ---
 class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
-
-<br>
 <br>
 ## Conclusions
 
@@ -366,8 +366,6 @@ background-size: contain
 class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
-
-<br>
 <br>
 ## Conclusions
 
@@ -378,7 +376,6 @@ Contribution
 class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
-<br>
 <br>
 ## Limitations
 
@@ -394,7 +391,6 @@ class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 <br>
-<br>
 ## Additional Analyses
 Similar findings with other measures of health for older Chinese adults. 
   - Buddhism and Islam are associated with greater functional limitations, increased probability of experiencing body pain, and 
@@ -407,7 +403,6 @@ Preliminary mediation analyses to test explanatory mechanisms and social pathway
 class: left, top
 background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
-<br>
 <br>
 ## Future Research
 
