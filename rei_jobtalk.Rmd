@@ -150,6 +150,14 @@ class: center, top
 
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/berkman2000_box1.jpg?raw=true" width = "70%"/>
 
+---
+class: center, top
+
+.large[**Socio-ecological Model of Place Effects on Health (Berkman et al. 2000)**]
+<br>
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/berkman2000_box3.jpg?raw=true" width = "70%"/>
+
 
 
 
