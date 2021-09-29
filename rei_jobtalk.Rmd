@@ -51,13 +51,13 @@ Department of Sociology | Purdue University
 Presented at SOC591 Proseminar  
 September 30, 2021
 
-
 ---
-class: center, top
+class: center, top 
 
-.large[**Mortality rate and projections in China from 1949-2070**]
+.large[**Mortality rate per 1,000 people in Chinese counties, 2000**]
+<br>
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mort.jpg?raw=true" width = "75%"/>
 
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mortrate_graph.jpg?raw=true" width = "75%"/>
 
 ---
 class: center, top 
@@ -65,13 +65,6 @@ class: center, top
 .large[**Chinese population by age group in 2017 and projections in 2050**]
 
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/aging_graph.png?raw=true" width = "75%"/>
-
----
-class: center, top 
-
-.large[**Mortality rate per 1,000 people in Chinese counties, 2000**]
-<br>
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/mort.jpg?raw=true" width = "75%"/>
 
 ---
 class: center, top
@@ -89,8 +82,6 @@ background-size: contain
 
 ##.center[Dissertation Project]
 
---
- 
 ###.opacity[Study 1. How is the religious environment associated with county-level mortality rates in China?]
 
 --
@@ -116,6 +107,30 @@ background-size: contain
 
 - Does the association vary between adherents and non-adherents of each religion?
 
+---
+class: left, top
+
+## Theoretical and Conceptual Framework
+
+1. Conceptualization of religion as an ecological characteristic that influences individual and community-level outcomes.  
+
+2. Socio-ecological framework that emphasizes features of the social environment as determinants of health (i.e.,  neighborhood/place effects on health)  
+
+3. Mechanisms that link religion and health. 
+
+---
+
+class: left, middle
+
+.pull-left[
+**.large[Religious Environment:]**
+
+the demographic presence and sociocultural influence of religion(s) in a local social context
+
+  - most commonly a geographic area (e.g., community, neighborhood, county, state)
+  - individual vs. contextual effects
+  - operationalized as the religious composition of an area or network]
+  
 ---
 class: center, top
 
@@ -150,48 +165,16 @@ class: middle
 .pull-right[.center[Religion/Spirituality & Physical Health Model (Koenig et al. 2012)]]
 
 ---
-class: left, middle
-
-.pull-left[
-**.large[Religious Environment:]**
-
-the demographic presence and sociocultural influence of religion(s) in a local social context
-
-  - most commonly a geographic area (e.g., community, neighborhood, county, state)
-  - individual vs. contextual effects]
-
-.pull-right[.center[
-<img class="circle"  src= "https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi.png?raw=true" width ="400px"/>]]
-
----
-class: center, top
-
-background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/allsites.png?raw=true)
-background-size: contain
-
-**.large[Religious Sites in China (2004)]**
-
----
-class: center, top 
-
-background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/guangdong.png?raw=true)
-background-size: contain
-
----
-class: center, top 
-
-background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/wanshousi1.png?raw=true)
-background-size: contain
-
----
 class: left, top
-## Data
+## Data & Measures
 
-.pull-left[
 **.large[Online Spiritual Atlas of China (OSAC 2019)]**
 
-- 72,665 registered religious sites in 2,871 counties in 336 prefectures
-- from China's 2004 Economic Census, cleaned & published by Purdue's Center on Religion and the Global East]
+.pull-left[
+- from China's 2004 Economic Census, cleaned & published by Purdue's [Center on Religion and the Global East (CRGE)](globaleast.org)
+
+**Focal Independent Variable:** \# of religious sites per 100k people in Chinese prefectures 
+  - Total religious sites & number for Buddhism, Catholicism, Daoism, Islam, & Protestantism ] 
 
 .pull-right[
 | | # of sites |
@@ -204,37 +187,25 @@ class: left, top
 | Total | 72,655 | 
 ]
 
+---
+class: center, top 
+
+background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/guangdong.png?raw=true)
+background-size: contain
 
 ---
 class: left, top
-## Data
+## Data & Measures
 
 **.large[Chinese Health and Retirement Longitudinal Study (CHARLS)]**
-- *N* = 21,057 Chinese residents aged 45+ in 12,450 households from 450 different neighborhoods (villages/urban communities)
+- *N* = 21,057 Chinese residents aged 45+ in 12,450 households from 450 different neighborhoods (villages/urban communities), Wave 3 in 2015
+- Analysis Sample: *n* = 6,948, aged 60+, respondents and spouses  
 
-**Analysis Sample:** *n* =  6,948
-  - health outcomes from Wave 3 in 2015
-  - \+ control variables from 2014 Life History & 2011 Wave 1 Community survey
-  - Aged 60+, respondents and spouses 
+**Dependent Variable(s):** self-rated health (poor, fair, good, very good)<sup>1</sup>  
 
----
-class: left, top
-## Measures
+**Control variables**: individual demographics & religious identity, household characteristics, community characteristics (from 2014 Life History & 2011 Wave 1 Community survey)
 
-**.large[Dependent Variable]**
-- Self-rated health: poor, fair, good, very good  
-  - .tiny[Also examine number of chronic illnesses, functional limitations, and body pain]  
-  
---
-
-**.large[Focal Independent Variable]**
-- Number of religious sites per 100k people in Chinese prefectures - proxy for the socio-demographic presence and sociocultural influence of religion
-  - Total \# of religious sites
-  - \# of religious sites for Buddhism, Catholicism, Daoism, Islam, & Protestantism  
-
---
-
-**Control variables**: individual demographics & religious identity, household characteristics, community characteristics
+.footer[.tiny[<sup>1</sup> Also chronic illnesses, functional limitations, and body pain in full analyses.]]
 
 ---
 class: center, middle 
@@ -280,6 +251,7 @@ Associations not statistically significant.
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_sites.jpg?raw=true" width = "80%" />
 ]
 
+
 ---
 class:center
 **.large[Predicted Self-Rated Health Based on Prefecture-level Religion]**  
@@ -288,9 +260,15 @@ class:center
 
 ---
 class:center
+**.large[Predicted Self-Rated Health Based on Prefecture-level Religion]**  
+<br>
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_all_plus1.png?raw=true" width = "100%" />
+
+---
+class:center
 **.large[Predicted Self-Rated Health Based on Prefecture-level Buddhism]**  
 <br>
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_bud.png?raw=true" width = "100%" />
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/srh2_bud.jpg?raw=true" width = "75%" />
 
 ---
 class:center
@@ -315,7 +293,7 @@ class: center, top
 |Fair       | 0.028<sup>\*\*</sup>  |
 |Good       |  -0.013<sup>+</sup> | 
 |Very Good  |   -0.025<sup>\*\*</sup> |
-|Overall | Neg. |  
+|**Overall** | **Neg.** |  
 
 .small-font[Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*\*</sup> *p* < .01, <sup>\*\*\*</sup> *p* < .001; AMEs use observed values.
 ]
@@ -342,12 +320,21 @@ class: center, top
 |Fair       | -0.005  | |0.028<sup>\*\*</sup> |0.004             |0.000             |-0.015<sup>\*</sup>|-0.028<sup>\*\*</sup>  |
 |Good       |  -0.004 | |-0.013<sup>+</sup>   |-0.012<sup>\*</sup>|0.019<sup>\*</sup>|-0.002          |0.002   |
 |Very Good  |   0.001 | |-0.025<sup>\*\*</sup>|0.006             |-0.002            |0.006            |0.022<sup>\*</sup>  |
-|Overall | -  |  |Neg. | - | Pos. | Neg. | Pos. |
+|**Overall** | -  |  |**Neg.** | - |**Pos.** | **Neg.** | **Pos.** |
 Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05, <sup>\*\*</sup> *p* < .01, <sup>\*\*\*</sup> *p* < .001; AMEs use observed values.
 
 
 ---
-No significant interactsion
+class: left, top
+
+.large[**Variation by Individual Religion**]
+
+Are associations between the religious environment and self-rated health different between religious adherents and non-adherents?
+
+- Cross-level interactions between number of religious sites (prefecture) and religious identity (individual). 
+  - e.g., number of total religious sites in prefectures X religious adherent/non-adherent
+  - e.g., number of Buddhist temples in prefectures X Buddhists/non-Buddhists.
+- None of these interactions are statistically significant; none of changes in the probabilities of being in each category of self-rated health are different by religious identity. 
 
 ---
 class: left, top
@@ -358,35 +345,12 @@ background-size: contain
 ## Conclusions
 
 No evidence that greater presence of overall religion in Chinese prefectures is associated with self-rated health among older Chinese adults.
-  - Total number of religious sites has no change on probabilities of being in each self-rated health category.
-  - Suggests there is not an overall effect of the "religious" environment.    
 
----
-class: left, top
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
-background-size: contain
-<br>
-<br>
-## Conclusions
 Greater presence of Daoism and Protestantism in Chinese prefectures is associated with **better** self-rated health among older Chinese adults. 
-- Daoism: decreased probability of Poor, increased probability of Good 
-- Protestantism: decreased probability of Fair, increased probability of Very Good  
 
 Greater presence of Buddhism and Islam in Chinese prefectures is associated with **worse** self-rated health among older Chinese adults.  
-- Buddhism: increased probability of Fair, decreased probability of Good/Very Good
-- Islam: increased probability of Poor, decreased probability of Fair
-
----
-class: left, top
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
-background-size: contain
-
-<br>
-<br>
-## Conclusions
 
 No evidence that the presence of religions in Chinese prefectures has matters differently for the health of religious adherents and non-adherents. 
-  - For example, negative associations between Buddhist and Islam on the self-rated health are evident among both Buddhists and non-Buddhists. 
 
 ---
 class: left, top
@@ -397,7 +361,6 @@ background-size: contain
 <br>
 ## Conclusions
 
-No evidence that religion as a whole or that Catholicism is associated with self-rated health among older Chinese adults. 
 
 ---
 class: left, top
@@ -462,5 +425,11 @@ class: right, middle
 [`r fa(name = "link")` bmcphail.com](https://bmcphail.com)  
 [`r fa(name = "twitter")` @bmcphail](http://twitter.com/bmcphail)  
 
+---
 
+class: center, top
 
+background-image: url(https://github.com/bmcphail05/jobtalk/blob/main/images/allsites.png?raw=true)
+background-size: contain
+
+**.large[Religious Sites in China (2004)]**
