@@ -204,7 +204,7 @@ class: left, top
 ---
 class: center, middle 
 
-<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data1.png?raw=true" width = "100%" />
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/nested_data1.png?raw=true" width = "100%" />
 
 ---
 class: left, top
