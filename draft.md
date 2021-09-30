@@ -3,18 +3,16 @@
 # Background
 ## Introduction
 
-Hi everyone, thanks so much for having me. I'm really excited to be here and to share some of my research with you. Today, I'll be speaking about the impact of the religious environment on population health in China. In particular, I'll be examining how the religious make-up of local areas impacts health outcomes among the older Chinese adults that live in them. Using geographic data of religious sites and national health and retirement survey of older adults, I will show that the presence of different religious groups in local areas has important health implications not only for people who are religious but also for people who are not. And from these findings, I argue that the religious environments in which people live not only matter for their individual health but also contribute to the geographic health disparities in mainland China.
-
-Geographic health disparities, then exacerbated by aging of the population...
+Hi everyone, thanks so much for being here. I'm really excited to share some of my research with you. Today, I'll be speaking about the impact of the religious environment on population health in China. In particular, I'll be examining how the religious make-up of local areas impacts health outcomes among older Chinese adults. Using geographic data of religious sites and a national health and retirement survey of older adults, I will show that the presence of different religious groups in local areas has important health implications not only for people who are religious but also for people who are not. And from these findings, I argue that the religious environments in which people live not only matter for their individual health but also contribute to the geographic health disparities in mainland China.
 
 
-Over the past 40 years, China's economic development has been incredible. And although the health of many Chinese citizens has improved greatly, there are also widening health inequalities in China today. Much of this health disparity is observed between socioeconomic groups, but a lot of it is geographic. Rates of disease and mortality are not evenly distributed across China which you can see on this map. The health gap between urban and rural areas and across regions, are a serious problem in China [@fang2010; @liu2019].
+Over the past 40 years, China's economic development has been incredible. And although the health of many Chinese citizens has improved greatly, there are also widening health inequalities in China today. Much of this health disparity is observed between socioeconomic groups, but a lot of it is geographic. Rates of disease and mortality are not evenly distributed across China which you can see on this map. The health gap between urban and rural areas and across regions, is a serious problem in China [@fang2010; @liu2019].
 
 And this problem is only going to be exacerbated by the rapid aging of the Chinese population. Because China's one-child policy, which between 1979 and 2015, limited urban families to having only one child, the growth of the Chinese population has slowed. As younger generations had fewer children than older generations. A consequence is that, as time passes, more and more of China's population will be in older age groups. By the year 2050, the number of people aged 60 or older is projected to more than double—to increase from about 16 percent to about 35 percent of the total population [@unitednations2017, p. 28]. So on this graph, notice how more of the population shifts into the darker green bars which represent age categories above age 60.
 
 Now, this population shift will also come with an increase in chronic health problems, specifically ones that disproportionately burden older adults [@chatterji2008; @fang2015]. And in this way, the present health inequalities will continue to widen.
 
-Of course research has shown that area differences in economic development, health insurance systems, and health care resources are some of the major causes of these health disparities [@fang2010; @liu2019], but there is still a lot we don't know about how the environments that people live in affect their health. Understanding factors —both individual-level factors and community-level factors— that are associated with *who* gets sick and *where*  can help reduce these disparities in health, they can help identify opportunities for disease prevention, and can they can help determine where more healthcare resources need to be distributed.
+Of course research on China  has shown that area differences in economic development, health insurance systems, and health care resources are some of the major causes of these health disparities [@fang2010; @liu2019], but there is still a lot we don't know about how the environments that people live in affect their health. Understanding factors —both individual-level factors and community-level factors— that are associated with *who* gets sick and *where*  can help reduce these disparities in health, they can help identify opportunities for disease prevention, and can they can help determine where more healthcare resources need to be distributed.
 
 We now know that the places where people live, work, and play matter more for their health than their genes and biology, but studies examining the effects of place on health have neglected a key aspect of local geographic areas and communities: the religious environment. Sociology’s classical tradition understood religion as a profoundly social phenomenon (Durkheim 2005; Weber 2013), but most health research today has predominantly reduced religion to an individual-level attribute. Only a few scholars have studied how the religious environment affects population health and mortality in the U.S. (Blanchard et al. 2008; Garcia, Bartkowski, and Xu 2017; Stroope and Baker 2018), and we know very little about how this plays out in other social, political, and cultural contexts.
 
@@ -28,21 +26,13 @@ In the first study, I examine how the religious environment in Chinese counties 
 
 In the second study, which I'll be sharing more about today, I examine how the religious environment in Chinese prefectures is associated with the individual physical health outcomes of older Chinese adults?
 
-And in the final study, I examine potential mechanisms that explain these associations?
+And in the final study, I examine potential mechanisms that explain these associations.
 
-Again, what I want to do today, is share about my work on the second study. In the second study, there are 3 guiding research questions that I aimed to answer.
+And so altogether my aim is to..
 
-The first is whether the overall presence of religion affected health outcomes? So do more religious areas have different health outcomes than less religious areas?
-
-The second is whether each religion has its own separate effect on health outcomes? So is there a difference in how each religion is associated with health outcomes.
-
-And finally, are the connections between the religious environment and health outcomes different for religious people than for non-religious? For example, does the presence of Buddhism in an area matter differently for the health of Buddhists than for non-Buddhists?
-
-
-# Approach
 ## Theoretical Discipline Framework
 
-To try to understand and explain the potential health consequences of religious ecology in the Chinese context, I draw on theoretical and conceptual frameworks from social epidemiology, sociology of religion, and prior studies of religion and health.
+To try to understand and explain the potential health consequences of the religious environment in the Chinese context, I draw on theoretical and conceptual frameworks from social epidemiology, sociology of religion, and prior studies of religion and health.
 
 First, I conceptualize religion as characteristic of a place. Most studies of religion and health routinely conceptualize and measure religion as an individual-level attribute, but religion is not only something that individuals believe, practice, or identify with; it is also a "group property" [@stark1996] with "an essentially social character" [@idler2014a, 3]. It is a profoundly social phenomenon that is socially produced [@berger1967], socially reinforced [@cornwall1989], and socially transmitted in social environments such as congregations [@stroope2011], families [@bengtson2013; @smith2005], and social networks [@cheadle2012; @lofland1965; @stark1980]. So religion is a social force that has the potential to shape both individual and community health.
 
@@ -50,42 +40,31 @@ This argument isn't new though. Early sociologists like Weber [-@weber2013] and 
 
 So what does a religious environment look like? How do we capture what the religious environment of local area is? Most commonly, scholars have used the religious composition of an area, the religious make-up of an area, to define the religious environment, so what religions are present and to what degree. Usually, this is operationalized as the number of adherents or followers of different religions.
 
-
-How exactly then do religious environments impact the health of individuals?
+How exactly then does the religious environment impact the health of individuals?
 
 To answer this question, I look to the social determinants of health literature and more specifically, the work that examines the effects of place on health. In the US, the research on how neighborhoods and communities impact health outcomes has shown us that population patterns of health and disease are “biological expressions of social relations.” This kind of work, like this conceptual model, uses an socio-ecological framework, which emphasizes the multiple levels and domains of the social and ecological environment that influence health outcomes (Krieger 2001). We now know that socio-cultural characteristics of local areas are important categories of features that help explain area differences in health (Macintyre and Ellaway 2000: 342-343). Religion is one of these, but it is rarely considered in social epidemiology. In this particular model of place effects on health, culture is included as macro-level socio-structural conditions and examples like norms and values and social cohesion are given. What about religion here? It's missing here from this model, but things like norms and values and social cohesion are certainly impacted by religion.
 
 If we conceptualize religion as an upstream macro-level socio-cultural feature of a place, this model is helpful for theorizing about how it shapes health outcomes through this causal chain that. First, these macro-level characteristics of an area (like religion) determine the structure and characteristics of social networks, which provide opportunities for social support, social influence, social participation/engagement, and access to resources. These mechanisms then influence health through pathways such as physiological responses to stress, psychological states, and health behaviors (Berkman et al. 2000: 846).
 
-Interestingly, there is a lot of overlap between this model and studies of the relationship between individual religion and health, particularly the theoretical mechanisms that explain how religion affects health. 
+Interestingly, there is a lot of overlap between this model and studies of the relationship between individual religion and health, particularly the theoretical mechanisms and pathways that explain how religion and health are associated. Prior studies of religion show that 1) health and lifestyle behaviors; 2) social resources and social support 3) coping; and 4) attitudes, beliefs, emotional states, and feelings help explain the associations between individual religious involvement and health (Chatters 2000; Ellison and Levin 1998; George, Ellison, and Larson 2002). So individual religion has been found to affect individual health via many of the same downstream processes that this model theorizes as responsible for associations between place and individual health.
 
-In other conceptual models, such as this one that outlines the
+So missing from this model is religion as a community-level characteristic AND missing from studies of religion and health is ALSO religion as a community-level characteristic.
 
-And when religion is included in research on health, it is often conceptualized as an individual-level attribute.
+My dissertation tries to bridge this gap between these two areas of research by examining whether and how the religious environment is associated with the individual physical health outcomes of older Chinese adults.
 
+So for the study I'm presenting about today, I have 3 guiding research questions that I aimed to answer.
 
+The first is whether the overall presence of religion affected health outcomes? So do more religious areas have different health outcomes than less religious areas?
 
-Several contemporary theoretical conceptualizations have emerged to explain how the religious environment affects individual- and community-level outcomes. First, the moral community hypothesis argues that religion fosters a moral environment that integrates individuals and regulates behavior within a community (Stark 1996). The religious composition of a community may either directly influence the attitudes, behaviors, and outcomes of all community members but may also interact with individual-level religiosity, such that the effect of religion is greatest for highly religious individuals in highly religious social environments (Stark 1996; Regnerus 2003; Stroope and Baker 2018). Another model argues that local religious subcultures—the attitudes, values, beliefs, and practices shared by members of a common religious group—not only influence members of a religious group but can also have indirect influences on non-members in the same community via influences on local public subcultures (Olson 2019). In this model, larger religious groups shape the attitudes and behaviors of others through their greater presence in interpersonal social networks (Olson 2019).
+The second is whether each religion has its own separate effect on health outcomes? So is there a difference in how each religion is associated with health outcomes.
 
+And finally, are the connections between the religious environment and health outcomes different for religious people than for non-religious? For example, does the presence of Buddhism in an area matter differently for the health of Buddhists than for non-Buddhists?
 
-
-
-These conceptualizations of religion’s contextual effects emphasize the dynamic role of social connections, which also feature prominently in social epidemiological models of disease and health distribution. For example, Berkman et al. (2000) center the role of social networks in a causal process that links upstream forces like social, cultural, economic, and political conditions with downstream mediating mechanisms and pathways that influence individual health. In this model, 1) macro-level social-structural conditions For this project, I conceptualize religion as a macro-level social-structural condition that affects social networks and subsequently mechanisms and pathways that impact health outcomes.
-
-
-This is consistent with prior studies of religion which demonstrate that 1) health and lifestyle behaviors; 2) social resources; 3) coping; and 4) attitudes, beliefs, emotional states, and feelings help explain the robust associations between individual religious involvement and health (Chatters 2000; Ellison and Levin 1998; George, Ellison, and Larson 2002).
-
-Research indicates that religious involvement decreases mortality risks (Kim, Smith, and Kang 2015; Krause 2006; Sullivan 2010) and positively influences the physical health and psychological well-being of individuals across the life course (Cotton et al. 2006; Koenig 2009, 2015; Powell, Shahabi, and Thoresen 2003). Only a few published studies, however, have investigated how the religious environment affects health. Blanchard et al. (2008) showed that higher concentrations of Fundamentalist and Pentecostal Protestant congregations in the U.S. is associated with higher all-cause mortality rates. Studies of infant mortality find similar variation across denominations (Bartkowski, Xu, and Garcia 2011; Garcia, Bartkowski, and Xu 2017). Differences in theological orientations may explain these varying effects on population health (Bartkowski, Xu, and Garcia 2011; Blanchard et al. 2008). Evidence also suggests that individual-level religiosity interacts with the religious environment at the county (Stroope and Baker 2018) and national levels (Diener, Tay, and Myers 2011; Elliott and Hayward 2009) to affect individual health. These associations also vary by level of government restrictions on religion (Hayward and Elliott 2014) and between religious majority and minority groups (May and Smilde 2016).
-
-
-
-
-
+Because so little is known about the relationships between religion and health in China, much less the relationship between the religious environment and health, this study is primarily exploratory, so I won't list out hypotheses here. Prior to my analyses, however, I did develop competing hypotheses for these research questions to have potential explanations for why each religion might a positive or negative association with self-rated health. After I present my findings, I provide some potential explanations for the associations that are present in these data.
 
 ## Methodology
 
-
-To answer this question, I have constructed a dataset by merging geographic data of religious sites in China with a national health and retirement study.
+To answer these questions, I have constructed a dataset by merging geographic data of religious sites in China with a national health and retirement study.
 
 To measure the religious environment, I use data from the Online Spiritual Atlas of China. This data was collected as part of China's 2004 Economic Census, and was clean and published by Purdue's Center on Religion and the Global East, which I have worked with for the past 5 years. This dataset has information for over 72,000 religious sites in China.
 
@@ -131,7 +110,7 @@ Let's zoom in Buddhism as a quick example. An increase in the presence of Buddhi
 
 Looking at the Fair line again for Buddhism, the probability of reporting Fair health in prefectures with no Buddhist temples is predicted to be about .5, whereas the probability of reporting Fair health in prefectures with the most number of Buddhist temples in the data set is .630. That's a jump of 13 percentage points across the range of Buddhist temples.
 
-Similarly, the probability of reporting Very Good health in prefectures with no Buddhist temples is predicted to be about .13, and the probability of reporting Very Good health in prefectures with the most number of Buddhist temples in the data set is .025. That's a drop of more than 10 percentage points across the range of the data. So as the number of Buddhist temples increases across prefectures, respondents are increasingly more likely to report Fair health and increasingly less likely to report Good and Very Good health.
+Similarly, the probability of reporting Very Good health in prefectures with no Buddhist temples is predicted to be about .13, and the probability of reporting Very Good health in prefectures with the most number of Buddhist temples in the data set is .025. That's a drop of more than 10 percentage points across the range of the data. So as the number of Buddhist temples increases across prefectures, respondents are increasingly likely to report Fair health and decreasingly likely to report Good and Very Good health.
 
 I'll show  statistical tests in a moment, but there's a lot to interpret from these models, and I think the graphs are most helpful for seeing the patterns.
 
@@ -167,31 +146,47 @@ So, there are no statistically significant effects for total sites in the first 
 
 The last research question that I set out to answer in this study is whether these associations are different between adherents and non-adherents.
 
-To get at this question, I ran additional models with all of the same variables but I included with cross-level interaction terms between the number of sites for each religion in prefectures and the religious identities of the individual respondents. This approach allows me to test for example whether the effect of the presence of Buddhism in Chinese prefectures is different for Buddhists than for non-Buddhists. First, I do this with the total number of religious sites, and then I do it for each religion. In short, these models show no evidence that the effects that I've just been sharing about are different by the religious identity of individuals. This suggests that the effect of the religious environment on self-rated health is no different for religious adherents than it is for non-adherents. And I find this to be the case for my
+To get at this question, I ran additional models with all of the same variables but I included with cross-level interaction terms between the number of sites for each religion in prefectures and the religious identities of the individual respondents. This approach allows me to test for example whether the effect of the presence of Buddhism in Chinese prefectures is different for Buddhists than for non-Buddhists. First, I do this with the total number of religious sites, and then I do it for each religion. In short, these models show no evidence that the effects that I've just been sharing about are different by the religious identity of individuals. This suggests that the effect of the religious environment on self-rated health is no different for religious adherents than it is for non-adherents.
 
 
 # Conclusion
 
-No evidence that greater presence of overall religion in Chinese prefectures is associated with self-rated health among older Chinese adults.
-  - Suggests there is not an overall effect of the "religious" environment.
+So to quickly summarize these findings.
 
+A greater overall presence of religion in Chinese prefectures does not appear to be associated with self-rated health. This suggests that the religious environment does not have a single overall effect. Given that some religions have positive associations and some have negative associations, these effects are likely canceling one another out.
 
+In terms of separate effects by religious groups, we see that a greater presence of Daoism and Protestantism is associated with **better** self-rated health among older adults. And these associations are present for both Daoists and non-Daoists, as well as for Protestants and non-Protestants.
+
+There are several potential explanations for this. Daoism has strong connections with Traditional Chinese Medicine and other health practices so some Daoist norms, values, and behaviors that promote health may be more diffused across the prefectures where there is a greater presence of Daoism. It's also possible that there are more traditional Chinese medicine hospitals in areas with more Daoists. For Protestantism, it's congregational nature may be providing additional opportuntiies for social connections and social support in prefectures where Protestantism is stronger. Throughout China, Protestant churches are also involved with elder care. In many communities, there are senior care facilities that are run by Protestant organizations.
+
+In contrast to Daoism and Protestantism, a greater presence of Buddhism and Islam is associated with **worse** self-rated health among older adults. Again, these associations are present for both Buddhists and and non-Buddhists, as well as for Muslisms and non-Muslims.
+
+A potential explanation for Islam involves the heavy political pressures that Muslim communities have experienced in the last decade. So, it's possible that there is enough social tension in areas with a greater presence of Islam to affect the physical health of all of the people living there.
+
+Buddhism is trickier. I did not expect this for Buddhism at all. And I am still considering possible explanations. And this certainly a point for further research. At the moment, best explanation is that there may be some aspect of the Buddhist belief system that leads to a greater focus on spiritual cultivation than on the physical body or healthier lifestyles. Buddhist beliefs, norms, and values may also cause people to have a more negative view towards their own health and therefore report worse self-rated health.
+
+So all together, these findings indicate that religion is indeed an overlooked characteristic of the social environment that has a considerable impact on individual health. The effect of the religious environment on the health of older adults is something different, something MORE than the effect of individual religious involvement. AND the religious composition of local areas even affects the health of people who are not religious.
+
+In thinking about the geographic health disparities in contemporary China, the role of the religious environment needs to be considered, both as a potential resource for improving health and as a potential contributor to negative health outcomes. Identifying the mechanisms by which each religion is impacting health outcomes is especially important here.
+
+I do NOT think the takeaway is that some religions should be promoted for their health benefits and other religions discourage for their health risks, but I do think the takeaway is that the religious environment of local areas is an important factor because of how it shapes the lives and ultimately the health of the people living there. And if we can understand more about the mechanisms and processes involved, policy makers and public health officials can make better decisions about the regulation of religion, involving religious groups in efforts to promote health, and developing social and cultural strategies to facilitate healthy lifestyles, particularly among aging populations. And, because of the geographic health disparities in China together with the rapid aging of the Chinese population, considerable efforts need to be taken to avoid the further widening of the health gap.
 
 
 ## Limitations
-Finally, I want to mention a few limitations to what I've presented here as well as a few ways that I think future research could build on these findings. First, religious identity is a relatively weak measure of the religious lives of Chinese individuals. Far more people believe and practice religion than identify with religion. And many people actually believe and practice more than one religion. So a religious identity question on a survey in China is only capturing a small skewed part of individual religion. This is the only available question in the CHARLS survey and only 8.5% report a religious identity (5.8% are Buddhist). Some better would be level of belief and religious practice.
 
-Self-rated health is a very subjective measure. The religious environment may impact ratings of health more than health itself.
+There are a few limitations to what I've presented here as well as a few ways that I think future research could build on these findings. First, religious identity is a relatively weak measure of the religious lives of Chinese individuals. Far more people believe and practice religion than identify with religion. And many people actually believe and practice more than one religion. So a religious identity question on a survey in China is only capturing a small skewed group of respondents. This is the only available question in the CHARLS survey and only 8.5% report a religious identity (5.8% are Buddhist). Some better survey items would be about respondents' levels of belief and religious practice.
 
+Additionally, self-rated health is a very subjective measure. The religious environment may actually impact "ratings" of health more than health itself.
 
+However, in my analyses using other dependent variables, I find similar results.
+  - Buddhism and Islam are associated with greater functional limitations, and an increased probability of experiencing body pain.
+  - Daoism and Protestantism are associated with fewer functional limitations.
+  - Daoism is associated wither few chronic illnesses and decreased probability of experiencing body pain.
 
-# Summary
-How does it fit? Show us the big picture.
-What is left to answer? Point to future research.
+## Future analyses
 
----
-Notes:
-* only about 25 slides (for 50 minutes)
-* leave visuals for at least 2 minutes
-* answering question: read "How Woman Can Speak Better in Public"
-  * "Thank for raising that point. It is an interesting observation.  "
+I think there are several extensions of this project that could build upon these findings in the future.
+
+The first is developing a study that has stronger measures of potential explanatory mechanisms. In particular, I think the role of social networks in these relationships needs further examination. So does a greater presence of a religion in an area affect health primarily via the greater presence and greater influence of followers of that religion in social network connections.
+
+The other possible extension of this project is to investigate whether the religious environment impacts health outcomes via more structural processes. For example, is the relationship between Daoism and better health outcomes due to having more Traditional Chinese medicine hospitals and resources in the area? There's much more that could be done to try to explain the processes and mechanisms that link the religious environment to individual-level health outcomes.
