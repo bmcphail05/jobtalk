@@ -67,6 +67,11 @@ class: center, top
 <img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/aging_graph.png?raw=true" width = "75%"/>
 
 ---
+class: center, middle
+
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/llamatemple.jpg?raw=true" width = "70%"/>
+
+---
 class: center, top
 
 .large[**Predominant religion in Chinese prefectures, 2004**]
@@ -204,7 +209,7 @@ class: left, top
 ---
 class: center, middle 
 
-<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/nested_data1.png?raw=true" width = "100%" />
+<img src= "https://github.com/bmcphail05/jobtalk/blob/main/images/nested_data2.png?raw=true" width = "100%" />
 
 ---
 class: left, top
@@ -331,16 +336,6 @@ Greater presence of Daoism and Protestantism in Chinese prefectures is associate
 Greater presence of Buddhism and Islam in Chinese prefectures is associated with **worse** self-rated health among older Chinese adults.  
 
 No evidence that the presence of religions in Chinese prefectures matters differently for the health of religious adherents and non-adherents. 
-
----   
-class: left, top
-background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
-background-size: contain
-<br>
-## Conclusions
-
-W
-
 
 ---
 class: left, top
